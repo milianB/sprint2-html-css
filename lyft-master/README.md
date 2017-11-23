@@ -6,28 +6,31 @@
 
 ***
 
-Para completar este reto, hemos creado este repositorio boilerplate (plantilla
-inicial) con todos los recursos que necesitas. Esto incluye imágenes y
-estructura de carpetas y archivos donde colocarás tu código.
+Completar el reto a partir de un repositorio boilerplate (plantilla
+inicial) con recursos como imágenes, estructura de carpetas y archivos donde colocar el codigo.
 
 ## Flujo de trabajo
 
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
+1. Realizar un fork del siguiente repositorio [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
 
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
+2. Realizar la estructura de maquetado en un archivo html.
 
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/lyft.git
-   ```
+3. Agregar estilo a la pagina web para duplicar la siguiente imagen:
+
+![Lyft Website](docs/fullpage.png)
+
+4. Crear un repositorio en gitHub para subir nuestro codigo.
+
+5. Compartir el link.
+
+
+
+
 
 ## Objetivo
 
 El reto consiste en replicar el sitio de **Lyft**, este será el resultado
 a lograr:
-
-![Lyft Website](docs/fullpage.png)
 
 ## Consideraciones
 
