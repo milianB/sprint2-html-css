@@ -1,0 +1,173 @@
+header{ /*editando encabezado*/
+ background: #2c3e50;
+ position: fixed;
+ width: 100%;
+ font-family: 'Montserrat', sans-serif;
+}
+
+header > .item-menu{
+  margin: 17px 19px -8px 47px;
+  font-size: ;
+  font-weight: 800;
+}
+
+.margin-top{
+  margin-top: 20px;
+}
+
+header > .menu-list-container{
+  margin-top: -11px;
+  margin-left: 50px;
+  margin-bottom: 19px;
+  margin-right: 104px;
+}
+
+
+header > div > .menu-item{
+  margin: 22px 10px;
+  font-size: 8px;
+  font-weight: 800;
+
+}
+
+a{
+  color: white;
+}
+
+#seccion-one{
+  text-align: center;
+  background-color: #18bc9c;
+  padding: 104px 58px 74px 4px;
+  width: 100%;
+}
+
+#seccion-one > img{
+  width: 200px;
+  height: 200px;
+}
+
+#seccion-one > div > .titulo1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    font-weight: 900;
+    padding: 39px 10px 0px 5px;
+}
+
+#seccion-one > div > .subtitulo{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 30px 0px 0px 11px;
+    line-height: 3px;
+}
+
+#seccion-two{
+  text-align: center;
+  background: white;
+  padding: 30px;
+}
+
+#seccion-two > h2{
+  color: black;
+  font-family: 'Montserrat', sans-serif
+
+}
+
+#seccion-two > div{
+  display: inline-block;
+}
+
+#seccion-two > div > img{
+  width: 200px;
+  display: inline-block;
+}
+
+#seccion-two > article{
+  display: inline-block;
+
+}
+
+.fondo-bianchi{
+  background:#18BC9C;
+  width: 100%;
+  height: 406px;
+}
+
+#section_tree > article > h2{
+    padding-top: 85px;
+    text-align: center;
+    color: white;
+    font-size: 29px;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    height: 51px
+}
+
+#section_tree > #columnas {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 50px;
+  column-count: 2;
+}
+
+#seccion-tree{
+  background: #18bc9c;
+  color: white;
+  padding: 146px;
+  margin: 2px -35px -21px -8px;
+}
+
+#section_tree > #columnas > p{
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    margin: 3px -6px;
+    padding: 1px 3px 6px 7px;
+    color: white;
+    line-height: 22px;
+}
+
+#parrafo-seccion{
+
+}
+
+#seccion-four{
+
+}
+
+#seccion-five{
+  background-color: #2c3e50;
+  color: white;
+}
+
+.float-lefth{
+  float: lefth;
+}
+
+.float-rigth{
+  float: right;
+}
+
+.location{
+  position: relative;
+  text-align: center;
+}
+
+
+
+.text-center{
+  text-align: center;
+}
+
+.text-uppercase{
+  text-transform: uppercase;
+}
+
+
+
+font-family: 'Lato', sans-serif;
+
+font-family: 'Montserrat', sans-serif;
+
+ #2c3e50 /*este es zolor azul rey */
